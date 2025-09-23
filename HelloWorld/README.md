@@ -26,8 +26,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|9/23/2025 |5:04 PM   |IM      |Hello World Project                         |             |
-|          |          |        |                                            |             |
+|9/23/2025 |5:04 PM   |IM      |Hello World Project                         |12           |
+|9/22/2025 |2:00      |MTG     |Kickoff meeting                             |60           |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
