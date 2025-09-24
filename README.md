@@ -26,8 +26,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|9/24/2025 |12:54 PM  |IM      |Research with Scikit                        |6            |
+|9/24/2025 |1:08 PM   |IM      |General Research                            |12           |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
