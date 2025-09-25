@@ -1,8 +1,8 @@
 # CSE 310 - Sprint Time Log
 
-Name:
+Name: Jalen Anderson
 
-Sprint #:
+Sprint #: 1
 
 ## Instructions
 
@@ -28,8 +28,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 |9/24/2025 |12:54 PM  |IM      |Research with Scikit                        |6            |
 |9/24/2025 |1:08 PM   |IM      |General Research                            |12           |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|9/24/2025 |1:48 PM   |IM      |Attempting to install Scikit                |5            |
+|9/25/2025 |9:55      |im      |Installing and using Scikit                 |38           |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
@@ -39,7 +39,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
+|IM - Individual Module         |1:01                      |
 |TP - Team Project              |                          |
 |MTG - Class Meetings           |                          |
 |**TOTAL**                      |                          |
