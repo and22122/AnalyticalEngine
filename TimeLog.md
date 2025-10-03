@@ -31,7 +31,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |9/24/2025 |1:48 PM   |IM      |Attempting to install Scikit                |5            |
 |9/25/2025 |9:55 AM   |IM      |Installing and using Scikit                 |38           |
 |9/25/2025 |2:46 PM   |IM      |Learning with Scikit                        |35           |
-|          |          |        |                                            |             |
+|10/3/2025 |12:10 PM  |IM      |Updating readme and time log                |28           |
 
 _Note: Add more rows as needed._
 
@@ -39,7 +39,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |1:36                      |
+|IM - Individual Module         |2:04                      |
 |TP - Team Project              |                          |
 |MTG - Class Meetings           |                          |
 |**TOTAL**                      |                          |
