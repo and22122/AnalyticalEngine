@@ -1,45 +1,43 @@
-# CSE 310 - Sprint Time Log
+# Project Title (Update)
 
-Name: Jalen Anderson
+I'm trying to create a data analysis engine.
 
-Sprint #: 1
 
-## Instructions
+## Instructions for Build and Use
 
-Record all CSE 310 work that you do either inside class or outside of class.  Include time learning, practicing, developing, testing, and documenting.  It is important to update this log every day.
+Steps to build and/or run the software:
 
-For the Category column, record one of the following:
-* IM - You are working on your Individual Module (Don't include Planning Meeting in class)
-* TP - You are working on your Team Project (include Team Project Work Days)
-* MTG - You are in one of the following class meetings: Planning, Stand-Up, Team Review, or Individual Review
+1. Install npm (done)
+2. Install scikit(done)
+3. Learn how to use scikit (debatably done)
+4. Build engine (how do I even...?)
 
-The expected minimum amount of time each Sprint for each category is as follows:
+Instructions for using the software:
 
-|Categroy                       |Total Time (Hours:Minutes)|
-|-------------------------------|:------------------------:|
-|IM - Individual Module         |          10:00           |
-|TP - Team Project              |           4:00           |
-|MTG - Class Meetings           |           4:00           |
-|**TOTAL**                      |        **18:00**         |
+1. First step here
+2.
+3.
 
-## Time Log
+## Development Environment 
 
-|Date      |Start Time|Category|Description                                 |Total Minutes|
-|----------|----------|:------:|--------------------------------------------|:-----------:|
-|9/24/2025 |12:54 PM  |IM      |Research with Scikit                        |6            |
-|9/24/2025 |1:08 PM   |IM      |General Research                            |12           |
-|9/24/2025 |1:48 PM   |IM      |Attempting to install Scikit                |5            |
-|9/25/2025 |9:55 AM   |IM      |Installing and using Scikit                 |38           |
-|9/25/2025 |2:46 PM   |IM      |Learning with Scikit                        |35           |
-|          |          |        |                                            |             |
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-_Note: Add more rows as needed._
+* python
+* npm
+* scikit and associated modules
 
-## Sprint Totals
+## Useful Websites to Learn More
 
-|Categroy                       |Total Time (Hours:Minutes)|
-|-------------------------------|:------------------------:|
-|IM - Individual Module         |1:36                      |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+I found these websites useful in developing this software:
+
+* [scikit-learn: machine learning in Python](https://scikit-learn.org/stable/)
+*
+*
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* [ ] First thing here
+* [ ]
+* [ ]
