@@ -9,8 +9,10 @@ from sklearn import linear_model
 import matplotlib.pyplot as plt
 import numpy as np
 
-
+print(load_diabetes)
 X, y = load_diabetes(return_X_y=True)
+print(X)
+print(y)
 X = X[:, [2]]  # Use only one feature
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=20, shuffle=False)
 

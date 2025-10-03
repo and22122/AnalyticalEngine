@@ -15,7 +15,7 @@ For the Category column, record one of the following:
 
 The expected minimum amount of time each Sprint for each category is as follows:
 
-|Categroy                       |Total Time (Hours:Minutes)|
+|Category                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
 |IM - Individual Module         |          10:00           |
 |TP - Team Project              |           4:00           |
@@ -32,14 +32,15 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |9/25/2025 |9:55 AM   |IM      |Installing and using Scikit                 |38           |
 |9/25/2025 |2:46 PM   |IM      |Learning with Scikit                        |35           |
 |10/3/2025 |12:10 PM  |IM      |Updating readme and time log                |28           |
+|10/3/2025 |4:59  PM  |IM      |Working on Babbage models                   |27           |
 
 _Note: Add more rows as needed._
 
 ## Sprint Totals
 
-|Categroy                       |Total Time (Hours:Minutes)|
+|Category                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |2:04                      |
+|IM - Individual Module         |2:31                      |
 |TP - Team Project              |                          |
 |MTG - Class Meetings           |                          |
 |**TOTAL**                      |                          |
