@@ -33,6 +33,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |9/25/2025 |2:46 PM   |IM      |Learning with Scikit                        |35           |
 |10/3/2025 |12:10 PM  |IM      |Updating readme and time log                |28           |
 |10/3/2025 |4:59  PM  |IM      |Working on Babbage models                   |27           |
+|          |5:51 PM   |IM      |                                            |35           |
 
 _Note: Add more rows as needed._
 
@@ -40,7 +41,7 @@ _Note: Add more rows as needed._
 
 |Category                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |2:31                      |
+|IM - Individual Module         |3:06                      |
 |TP - Team Project              |                          |
 |MTG - Class Meetings           |                          |
 |**TOTAL**                      |                          |
